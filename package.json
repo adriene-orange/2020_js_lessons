@@ -1,0 +1,19 @@
+{
+  "name": "javascript-lessons",
+  "version": "1.0.0",
+  "description": "project containing js lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriene-orange/2020_js_lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriene-orange/2020_js_lessons/issues"
+  },
+  "homepage": "https://github.com/adriene-orange/2020_js_lessons#readme"
+}
